@@ -23,3 +23,4 @@
 - Mongodb with some old locally hosted mysql
 - hosted on heroku
 - source code on github
+- mediawiki based homepage
